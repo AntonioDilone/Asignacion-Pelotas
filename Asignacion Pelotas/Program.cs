@@ -30,7 +30,6 @@ for (int i = 0; i < cant; i++) {
         pelotas.disponible = false;
     }
     else {
-        Console.WriteLine("\nCarácter ingresado no válido. Se asumirá como respuesta falsa.");
         pelotas.disponible = false;
     }
     Console.Clear();
